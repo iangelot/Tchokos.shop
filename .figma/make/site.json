@@ -1,0 +1,10 @@
+{
+  "description": "A refined online fashion storefront for browsing shoes, clothing, and bags, helping shoppers discover and explore textile goods.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
